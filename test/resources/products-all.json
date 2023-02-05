@@ -1,0 +1,38 @@
+[
+    {
+        "productQuantity": 3,
+        "id": "ab88dfc3-512a-4141-a87e-75be69bd3197",
+        "productPrice": "33.00",
+        "productName": "Bacon, Lettuce, & Tomato Sandwiches"
+    },
+    {
+        "productQuantity": 3,
+        "id": "ab88dec3-512a-4141-a87e-75be69bd3197",
+        "productPrice": "33.00",
+        "productName": "Bacon"
+    },
+    {
+        "productQuantity": 2,
+        "id": "8bf17b17-90b8-4788-a3b3-0750c38eab98",
+        "productPrice": "24.00",
+        "productName": "Pizza"
+    },
+    {
+        "productQuantity": 10,
+        "id": "d8776153-3c82-4641-930c-e69330fb6f36",
+        "productPrice": "11.50",
+        "productName": "Lime"
+    },
+    {
+        "productQuantity": 35,
+        "id": "bcae323d-609c-4cf5-b627-73b650f95745",
+        "productPrice": "5.00",
+        "productName": "Apple"
+    },
+    {
+        "productQuantity": 99,
+        "id": "ed658d97-5b37-4e55-9eac-704a842ba6a3",
+        "productPrice": "1.00",
+        "productName": "Cheese"
+    }
+]
